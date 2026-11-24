@@ -1,0 +1,66 @@
+site_code,native,demographics,genetics,round,country,location,region,latitude,longitude
+AC,native,Y,Y,1,Spain,Archuchurria,Europe,41.31785,1.950016
+ACR,non_native,Y,Y,2,USA,California,Nth_America,39.71315,-123.65177
+AL1,native,Y,N,NA,Finland,Aland island,Europe,60.22,19.54
+AL2,native,Y,N,NA,Finland,Aland island,Europe,60.13,19.98
+ARH,native,Y,Y,1,Norway,Arhelleren,Europe,60.6652,6.33738
+BG,native,Y,Y,1,Norway,Bargarden,Europe,61.4481,7.480683
+BHU,non_native,Y,Y,1,NewZealand,Lincoln,Australasia,-43.649957,172.456083
+BI,native,Y,Y,2,Ireland,BullIsland,Europe,53.372436,-6.168165
+BL,native,n,n,,Germany,Bad Lauchstadt,Europe,51.39268,11.88463
+CDF,native,Y,Y,2,Ireland,DistilleryFields,Europe,51.899611,-8.485889
+CH,native,Y,Y,1,Ireland,Coolclough,Europe,52.144308,-8.948419
+CP,non_native,Y,N,NA,Australia,CoombaPark,Australasia,-32.2235,152.4515
+DP,non_native,Y,Y,1,Australia,DuttonPark,Australasia,-27.49837,153.02602
+EE,native,Y,Y,1,Estonia,Allika,Europe,58.717116,23.771596
+EL,native,Y,Y,2,Estonia,Elva,Europe,58.259717,26.35125
+GB,non_native,Y,Y,1,USA,Franklin,Nth_America,35.2291,-83.39025
+GH,non_native,Y,Y,1,Canada,Guelph,Nth_America,43.534722,-80.211667
+GU,native,Y,N,NA,Norway,GuriskJaer,Europe,59.33587,10.48914
+HAS,non_native,Y,Y,2,USA,California,Nth_America,36.37865,-121.56724
+HR,native,Y,Y,1,Romania,HargitaMountains,Europe,46.34465,25.617017
+HU,native,Y,Y,1,Hungary,Keszthely,Europe,46.7493,17.23734
+HUFZ,native,n,n,,Germany,Halle,Europe,51.49567,11.93669
+HV,non_native,Y,Y,2,USA,Harvard,Nth_America,42.48566,-71.5687
+IO,native,Y,Y,1,Ireland,InisOirr,Europe,53.05706,-9.51672
+JE,native,Y,Y,1,Germany,Jena,Europe,50.95192,11.62282
+JR,non_native,Y,Y,2,USA,JasperRidge,Nth_America,37.408,-122.2275
+JSJ,non_native,Y,N,NA,USA,California,Nth_America,33.80889,-116.77673
+KM,native,Y,Y,1,Estonia,Kyynimts,Europe,57.73493,26.53314
+LK1,native,Y,Y,2,UK,Sheffield,Europe,53.192433,-1.762361
+MN,native,Y,Y,2,UK,Brearly,Europe,53.37982,-2.21606
+NRM,non_native,Y,Y,2,USA,California,Nth_America,35.52435,-121.07378
+OR_SS,native,Y,Y,1,Sweden,Stockholm,Europe,59.269244,18.101127
+PA,native,Y,Y,2,Spain,Panticosa,Europe,42.757399,-0.236718
+PC,non_native,Y,Y,2,USA,California,Nth_America,38.517701,-121.764322
+PM,native,Y,N,NA,CzechRepublic,Pruhonice,Europe,50.7776,14.8929
+RO,non_native,Y,Y,1,Canada,Rosedale,Nth_America,49.28742,-121.66956
+RO_IS,native,Y,Y,2,Romania,Isai,Europe,47.184917,27.556861
+RUSC,non_native,Y,N,NA,USA,Houston,Nth_America,29.65724,-95.44385
+SBK,native,n,n,,Hungary,Budapest,Europe,47.40025,19.15878
+SC,native,Y,Y,1,Ireland,SlieveCarran,Europe,53.07227,-8.99232
+SI,native,Y,Y,1,Finland,Seili,Europe,60.23695,21.959783
+STB,non_native,y,n,NA,Australia,Stradbrook,Australasia,-27.2939,153.2416
+STR,non_native,Y,N,NA,USA,California,Nth_America,33.62595,-117.55676
+SW242,native,Y,Y,2,Switzerland,"Sendy-Sollard, Vaud",Europe,46.4453,6.931455
+SW729,native,Y,Y,2,Switzerland,"Les Grandes Charbonnières, Vaud",Europe,46.40478,7.06198
+TG,native,Y,N,NA,Sweden,Sweden,Europe,58.951835,17.616575
+TJ,native,Y,N,NA,Sweden,Sweden,Europe,58.975639,17.563148
+TNC,non_native,Y,N,NA,USA,Oregon,Nth_America,44.03775,-123.1665
+TNM,native,Y,Y,1,Ireland,Donegal,Europe,55.24556,-7.61744
+TO,native,Y,N,NA,Italy,Torino,Europe,45.064965,7.589508
+TRU,non_native,y,n,,USA,Missouri,Nth_America,40.17806,-92.60035
+TUE,native,Y,Y,2,Germany,Tuebingen,Europe,48.53971,9.036808
+TW,non_native,Y,Y,1,Australia,Toowomba,Australasia,-27.5811,151.98784
+TY,non_native,y,n,,USA,Missouri,Nth_America,38.525351,-90.561589
+UC,non_native,Y,Y,1,Australia,Canberra,Australasia,-35.234303,149.08505
+UR,non_native,Y,N,NA,Australia,Urquhart,Australasia,-37.19098,144.38359
+VA,non_native,Y,Y,1,USA,Virginia,Nth_America,37.967365,-78.473958
+WIN,native,Y,Y,1,UK,Southampton,Europe,51.0432,-1.30818
+ZG,native,Y,Y,2,Spain,Zaragoza,Europe,41.68952,-0.932392
+ZM,native,Y,N,NA,CzechRepublic,Zdislava,Europe,49.9955,14.5666
+MACD,Non-Native,,,,Australia,,Australasia,-34.065,150.774
+CPA,Non-Native,,,,USA,,Nth_America,40.7105796,-77.9418474
+HO,Native,,,,Hungary,,Europe,47.53594098,20.95262777
+AG,Native,,,,Germany,,Europe,51.503365,11.94508
+PER,Native,,,,Spain,,Europe,42.73528,-1.742521
