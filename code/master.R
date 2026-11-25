@@ -17,9 +17,12 @@ source(here("code", "functions.R"), verbose=FALSE)
 source(here("code", "code_for_note2.R"), verbose=FALSE)
 
 # run this script to generate all figures in discussion 1 of note 3 scale 1
+# uses parallel processing as default
+# this may take a while because it contains multiple IBM simulations
 source(here("code", "scale1_nonstructure_dd_spatial.R"), verbose=FALSE)
 
 # run this script to generate all figures in discussion 2 of note 3 scale 1
+# uses parallel processing as default
 source(here("code", "scale1_structure_dd_spatial.R"), verbose=FALSE)
 
 # run this script to generate all figures in note 3 scale 2
